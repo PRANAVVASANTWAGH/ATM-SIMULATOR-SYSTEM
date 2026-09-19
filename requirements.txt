@@ -1,0 +1,27 @@
+Run the Application:
+
+Bash
+python main.py
+📂 Project Architecture
+Plaintext
+atm-simulator-system/
+├── .gitignore          # Git exclusion policies
+├── LICENSE             # Project license details
+├── README.md           # Documentation
+├── requirements.txt    # Dependency requirements
+└── main.py             # Main entry point & program logic
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check out the issues page.
+
+📄 License
+Distributed under the MIT License. See LICENSE for more information.
+
+
+---
+
+### 3. `requirements.txt`
+Since this system relies on Python's built-in `datetime` standard library, no external packages are needed:
+
+```text
+# This project relies strictly on Python standard libraries.
+# Minimum required version: Python 3.7+
