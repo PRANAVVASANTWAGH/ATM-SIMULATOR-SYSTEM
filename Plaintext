@@ -1,0 +1,8 @@
+Plaintext
+atm-simulator-system/
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── main.py
